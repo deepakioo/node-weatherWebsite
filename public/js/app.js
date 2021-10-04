@@ -1,4 +1,4 @@
-// console.log('Client side javascript file is loaded!')
+
 
 
  const weatherForn = document.querySelector('form')
